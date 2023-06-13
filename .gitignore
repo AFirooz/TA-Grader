@@ -31,4 +31,4 @@
 *.out
 *.app
 
-Cpp/.#README.md
+.#*
